@@ -7,7 +7,7 @@
 
 # Import any files you need to
 
-
+require_relative 'graph'
 
 def install_order(arr)
 
